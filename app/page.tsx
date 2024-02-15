@@ -31,7 +31,11 @@ export default function Home() {
       </div>
 
       <div className={styles.grid}>
-        <a
+
+        <textarea>
+
+        </textarea>
+        {/* <a
           href="https://docs.amplify.aws/gen2/"
           className={styles.card}
           target="_blank"
@@ -79,7 +83,7 @@ export default function Home() {
           <p>
             Fully-typed real-time API with NoSQL database.
           </p>
-        </a>
+        </a> */}
       </div>
     </main>
   )
